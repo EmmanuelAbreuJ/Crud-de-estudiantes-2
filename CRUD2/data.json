@@ -1,0 +1,24 @@
+[
+  {
+    "id": 12331258,
+    "nombre": "Emmanuel",
+    "area": "Informatica",
+    "calificaciones": {
+      "Matematicas": 99,
+      "Sociales": 98,
+      "Naturales": 98,
+      "Lengua ": 91
+    }
+  },
+  {
+    "id": 12331259,
+    "nombre": "Yonard",
+    "area": "Academico",
+    "calificaciones": {
+      "100": null,
+      "Matematica": 100,
+      "Sociales": 100,
+      "Lengua": 100
+    }
+  }
+]
